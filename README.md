@@ -12,4 +12,5 @@ Data Visualisation using Matplotlib and seaborn https://towardsdatascience.com/d
 
 #### Advance
 Matrix calculus and maths behind neural network  https://explained.ai/matrix-calculus/
+
 feature engineering in data : https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
