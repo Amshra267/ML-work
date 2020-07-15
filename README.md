@@ -10,6 +10,9 @@ introduction to pandas, and some useful functions for ml https://towardsdatascie
 
 Data Visualisation using Matplotlib and seaborn https://towardsdatascience.com/data-visualization-for-machine-learning-and-data-science-a45178970be7#:~:text=The%20heatmap%20from%20seaborn%20library,with%20an%20optional%20color%20bar.&text=In%20Machine%20learning%20applications%2C%20it,between%202%20different%20hyperparameters%20etc.
 
+Vectorization:
+http://people.duke.edu/~ccc14/sta-663-2016/03A_Numbers.html#Example:-Calculating-pairwise-distance-matrix-using-broadcasting-and-vectorization
+
 #### Advance
 Matrix calculus and maths behind neural network  https://explained.ai/matrix-calculus/
 
