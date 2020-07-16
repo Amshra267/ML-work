@@ -13,6 +13,8 @@ Data Visualisation using Matplotlib and seaborn https://towardsdatascience.com/d
 Vectorization:
 http://people.duke.edu/~ccc14/sta-663-2016/03A_Numbers.html#Example:-Calculating-pairwise-distance-matrix-using-broadcasting-and-vectorization
 
+how to use kaggle kernels https://towardsdatascience.com/kaggle-kernels-for-beginners-a-step-by-step-guide-3db6b1cd7606
+
 #### Advance
 Matrix calculus and maths behind neural network  https://explained.ai/matrix-calculus/
 
