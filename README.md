@@ -19,3 +19,5 @@ how to use kaggle kernels https://towardsdatascience.com/kaggle-kernels-for-begi
 Matrix calculus and maths behind neural network  https://explained.ai/matrix-calculus/
 
 feature engineering in data : https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
+
+KFold validation with image data generator:  https://medium.com/the-owl/k-fold-cross-validation-in-keras-3ec4a3a00538 
