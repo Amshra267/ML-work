@@ -21,3 +21,5 @@ Matrix calculus and maths behind neural network  https://explained.ai/matrix-cal
 feature engineering in data : https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 
 KFold validation with image data generator:  https://medium.com/the-owl/k-fold-cross-validation-in-keras-3ec4a3a00538 
+
+Stacking for neural networks: https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/
