@@ -24,4 +24,4 @@ KFold validation with image data generator:  https://medium.com/the-owl/k-fold-c
 
 Stacking for neural networks: https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/
 
-an introductory notebook for some os and glob command: http://localhost:8888/notebooks/ml%20work/os%20and%20glob%20tut%20for%20data%20load.ipynb
+an introductory notebook for some os and glob command[https://github.com/Amanmishra267/ML-work/blob/master/os%20and%20glob%20tut%20for%20data%20load%20(1).py]
