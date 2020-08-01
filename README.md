@@ -54,6 +54,8 @@ Python library is a collection of functions and methods that allows you to perfo
 
 **According to Wikipedia**- Artificial intelligence (AI) is wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. ... It is the endeavor to replicate or simulate human intelligence in machines. if you want to know more about what AI and Ml, follow this [link](https://towardsdatascience.com/what-do-you-know-about-artificial-intelligence-cd91cd3946dd)
 
+
+
 ## Machine learning
 
 <p align="center">
@@ -114,17 +116,18 @@ Python library is a collection of functions and methods that allows you to perfo
  Practicing logistic regression at  dataset at kaggle [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
   * if you want you can go at the kernel section on kaggle to some notebooks to get started. 
   
+--------------  
 ## Deep Learning(Rise of Neural Networks)
 
 <p align="center">
- <img  width="400" height="400" src="https://github.com/Amanmishra267/ML-work/blob/master/AnimatedVacantAldabratortoise-max-1mb.gif
+ <gif  width="500" height="500" src="https://github.com/Amanmishra267/ML-work/blob/master/AnimatedVacantAldabratortoise-max-1mb.gif
 "><br>
 </p>
 
 ----
 
 <p align="center">
- <img  width="400" height="400" src="https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2018/12/nural-network-banner.gif
+ <gif  width="500" height="500" src="https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2018/12/nural-network-banner.gif
  "><br>
 </p>
 
