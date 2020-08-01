@@ -43,7 +43,7 @@ Python library is a collection of functions and methods that allows you to perfo
 ### Materials
 **If you are a keen book for reader then here are few books which you can read for learning ML**
   * [Neural network and deep learning](http://neuralnetworksanddeeplearning.com/)
-  * 
+  * [deep Learning](http://www.deeplearningbook.org/)
 
 
 ## what actually AI is ?
@@ -92,7 +92,7 @@ Python library is a collection of functions and methods that allows you to perfo
 
 ---
 
-**More links for mastering the topic**
+**More links for mastering the topic (Optional)**
 
 1. **Linear Regression**:
     - [Simple Linear Regression](https://www.youtube.com/watch?v=ZkjP5RJLQF4)
@@ -102,15 +102,39 @@ Python library is a collection of functions and methods that allows you to perfo
     - [Stanford Logistic Regression Overview](http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/) ✨
     - [Siraj Raval Logistic Regression Tutorial](https://www.youtube.com/watch?v=D8alok2P468)
 
+ Practie all that you have studied on a competetion hosted at *kaggle*
  
+ **What is kaggle?** Answer is [here](https://medium.com/dataseries/what-is-kaggle-4751e384e916)
+ [how to use kaggle kernels](https://towardsdatascience.com/kaggle-kernels-for-beginners-a-step-by-step-guide-3db6b1cd7606)
+
+ 
+ Practicing linear regression at housing price prediction dataset at kaggle [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+  * For start working look at some kernels[code notebooks](https://www.kaggle.com/rbyron/simple-linear-regression-models), these helps you to get started.
+  * And of course if you want to see more you can go at the kernel section on kaggle to see more such notebooks.
+ Practicing logistic regression at  dataset at kaggle [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+  * if you want you can go at the kernel section on kaggle to some notebooks to get started. 
+  
+## Deep Learning(Rise of Neural Networks)
+
+<p align="center">
+ <img  width="400" height="400" src="https://github.com/Amanmishra267/ML-work/blob/master/AnimatedVacantAldabratortoise-max-1mb.gif
+"><br>
+</p>
+
+----
+
+<p align="center">
+ <img  width="400" height="400" src="https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2018/12/nural-network-banner.gif
+ "><br>
+</p>
+
+
+
 
 #### Beginner
 
 
-Vectorization and some basic python broadcasting:
-http://people.duke.edu/~ccc14/sta-663-2016/03A_Numbers.html#Example:-Calculating-pairwise-distance-matrix-using-broadcasting-and-vectorization
 
-how to use kaggle kernels https://towardsdatascience.com/kaggle-kernels-for-beginners-a-step-by-step-guide-3db6b1cd7606
 
 ### Advance (Optional)(For those who are highly intrested in knowning the underlying maths behind Machine learning)
 
@@ -132,10 +156,13 @@ Some may find a bit maths-extensive but getting just a basic idea is enough and 
      - Multivariate Calculus
      - PCA for dimensionality reduction
 
-feature engineering in data : https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
+[feature engineering in data](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
 
-KFold validation with image data generator:  https://medium.com/the-owl/k-fold-cross-validation-in-keras-3ec4a3a00538 
+[Vectorization and some basic python broadcasting](http://people.duke.edu/~ccc14/sta-663-2016/03A_Numbers.html#Example:-Calculating-pairwise-distance-matrix-using-broadcasting-and-vectorization)
 
-Stacking for neural networks: https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/
+
+[KFold validation with image data generator]( https://medium.com/the-owl/k-fold-cross-validation-in-keras-3ec4a3a00538) 
+
+[Stacking for neural networks](https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/)
 
 an introductory notebook for some os and glob command can be found [here](https://github.com/Amanmishra267/ML-work/blob/master/os%20and%20glob%20tut%20for%20data%20load%20(1).py)
