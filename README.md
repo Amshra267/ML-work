@@ -12,7 +12,7 @@ contains the content related to ML and AI
 python IDLE (3.7 or above) with jupyter notebook or Anaconda
 
   * Anaconda Installation
-     * if you are not have any above softwares installed follow this [link](https://docs.anaconda.com/anaconda/install/windows/)
+     * if you not have any above softwares installed follow this [link](https://docs.anaconda.com/anaconda/install/windows/)
      
   * Introduction to Jupyter Notebooks
      - [Jupyter tutorial blog](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
