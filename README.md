@@ -1,9 +1,40 @@
-# ML-AI work
+# A simple Track for delving into AI -ML
 contains the content related to ML and AI
 
-## use git clone https://github.com/Amanmishra267/ML-work.git to copy the contents of this repository
+## Prerequisite 
+
+### softwares requirement
+<p align="center">
+ <img  width="400" height="400" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6cd3635a-1b94-4856-9bd8-f74a481daf9c%2Fanaconda-logo2.png?table=block&id=d9df431a-6760-4ae7-bca6-863c746fa61b&width=3070&cache=v2"><br>
+  <i>presents:</i><br>
+</p>
+
+
+python IDLE (3.7 or above) with jupyter notebook or Anaconda
+
+if you are not have any above softwares installed follow this [link]()
+
+### some special tips
+
+
+
 
 ### Materials
+
+## what actually AI is ?
+
+<p align="center">
+ <img  width="400" height="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uktech.news%2Fhow-artificial-intelligence-is-transforming-businesses-20200213&psig=AOvVaw3FGfqSsGukTOufF2IAEFyB&ust=1596334155686000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCJj9sKf2-OoCFQAAAAAdAAAAABAD"><br>
+  <i>presents:</i><br>
+</p>
+
+**According to Wikipedia**- Artificial intelligence (AI) is wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. ... It is the endeavor to replicate or simulate human intelligence in machines. if you want to know more about what AI and Ml, follow this [link](https://towardsdatascience.com/what-do-you-know-about-artificial-intelligence-cd91cd3946dd)
+
+## Machine learning
+ machine learning is the subfield of AI that helps the computers to realize a task without being explicitly programmed.
+ 
+ A more detailed introduction about ML and its types is given [here](https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0), and if you are intrested in videos see [this](https://www.youtube.com/watch?v=Pj0neYUp9Tc)
+ 
 
 #### Beginner
 introduction to pandas, and some useful functions for ml https://towardsdatascience.com/my-python-pandas-cheat-sheet-746b11e44368
