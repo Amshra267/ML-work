@@ -158,10 +158,10 @@ E-mail Newsletters
 ----
 
 <p align="center">
- <img  width="400" height="400" src="https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2018/12/nural-network-banner.gif">
+ <img  width="400" height="400" src="https://github.com/Amanmishra267/ML-work/blob/master/nural-network-banner.gif">
 </p>
 
-In deep learning, we will focus on Multi Layer Perceptron (Neural Networks), moving on from Logistic Regression.
+In deep learning, we will focus on Neural Networks, moving on from Logistic Regression.
 
 
 #### Bare Essentials
@@ -171,16 +171,14 @@ In deep learning, we will focus on Multi Layer Perceptron (Neural Networks), mov
 [Neural Networks: Playground Exercises by Google](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/playground-exercises)(Do see it once. Not absolutely essential, but very helpful for visualizing and building simple neural networks on the go and seeing the results)
 
 **Libraries**
-Due to the advancement in deep learnig, there are different types of programming frameworks available like
+Due to the advancement in deep learnig, there are different types of programming frameworks (which performs similar tasks) available like-
  * Tensorlow(older version 1.1)
  * keras(with tensorlow as backend lastest tensorflow 2.0)
  * Torch
  * Theano
- * Pytorch and many more...
+ * Pytorch and many more... 
  
- Every framework will be suitable for different types of works, for our purposes keras with tensorflow and torch are the best 
- 
- So we use here keras due to easier code implementation
+We use here keras due to easier code implementation and someone is intrested, they can use torch also
  
  [Video Series on working with Keras (Both installation and Code practice in keras)](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)(Intermediate level). You can leave the backend selected as Tensorflow. The videos on deployment and Tensorflow.js are not required to be seen. Don't worry about CNNs as it comes later.
 
@@ -222,18 +220,16 @@ The [MNIST database](http://yann.lecun.com/exdb/mnist/) (Modified National Insti
 ## Image segmentation
 
 - **[Introduction](https://arxiv.org/pdf/2001.05566.pdf)** (ref pg:1-3)
-- Video lecture on Computer Vision tasks:
-
-[https://www.youtube.com/watch?v=nDPWywWRIRo&t=520s](https://www.youtube.com/watch?v=nDPWywWRIRo&t=520s)
+- [Video lecture on Computer Vision tasks](https://www.youtube.com/watch?v=nDPWywWRIRo&t=520s)
 
 -----------------------
 
 ### Finally Sequence Models and NLP(natural language processing)
 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e64d65a-4a87-4a81-a6b1-a320098dd734/NLP-image.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e64d65a-4a87-4a81-a6b1-a320098dd734/NLP-image.jpg)
+[https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e64d65a-4a87-4a81-a6b1-a320098dd734/NLP-image.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e64d65a-4a87-4a81-a6b1-a320098dd734/NLP-image.jpg)
 
-we focus on Sequence modelling and application in the field of Natural Language Processing(NLP)
+we focus on Sequence modelling and its applications in the field of Natural Language Processing(NLP)
 
 #### Prerequisites
 
@@ -247,23 +243,15 @@ To properly understand the material for this week, the following material should
 
 You all have seen how a convolutional network works and how to use image data and train a model to classify images. While dealing with image data, there was no question on how to represent an image for training the model because it was already given in pixel form i.e. you don't need to work on how to represent the images. But this is not the case with text data.
 
-Text data in its raw form is just a string which makes no sense to the computer or a model cannot be trained on it until it has been converted into numerical vectors. There are various processes how it is done, which are described in the medium article.
-
-The above article describes the basic practices in text processing and some basic NLP tasks. 
+Text data in its raw form is just a string which makes no sense to the computer or a model cannot be trained on it until it has been converted into numerical vectors. There are various processes how it is done,
 
 Tokenization, Stemming, Lemmatization etc. are few of the techniques to process data before training the ML model on it. 
 
-There is a python text processing module known as NLTK(Natural Language ToolKit) for performing the text processing tasks as described in the article above. The working examples and the tutorial of the module are given in detail in the article described below.
+There is a python text processing module known as NLTK(Natural Language ToolKit) for performing the text processing tasks as described. The working examples and the tutorial of the module and these preprocessing techniques are given in detail in the article described below.
 
 [NLTK for Beginners -NLP](https://medium.com/@pemagrg/nlp-for-beginners-using-nltk-f58ec22005cd)
 
 The documentation for the NLTK can be accessed [here](https://www.nltk.org/) and the book based on the documentation can be assessed [here](https://www.nltk.org/book/).
-
-For modelling the data into prediction various types of classical methodologies were developed. 
-
-One of them is bag-of-words described in the article below.
-
-[](https://medium.com/analytics-vidhya/fundamentals-of-bag-of-words-and-tf-idf-9846d301ff22)
 
 #### Here comes Deep Learning
 
@@ -271,16 +259,20 @@ Like any other machine learning task, NLP tasks such as POS tagging, NER classif
 
 The following course discusses most the techniques and types of deep learning architectures used in NLP.
 
-[Sequence Models | Coursera](https://www.coursera.org/learn/nlp-sequence-models)
+**[Sequence Models | Coursera](https://www.coursera.org/learn/nlp-sequence-models) by Andrew NG
 
 It is advisable to view all the video provided in the course in addition to the quizzes. However, the assignment part of the course is optional. The course discusses the basic techniques without going into very deep technical details of the methods.
 
 
 *For Other Materials, if you completed the above things then you will be able to search by your own*
 
-## Enjoy Learning
+
+### Enjoy Learning
 
 ---------------------
+
+
+
 
 
 ## Advance (Optional)(For those who are highly intrested in knowning the underlying maths behind Machine learning)
