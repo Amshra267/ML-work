@@ -228,7 +228,7 @@ The [MNIST database](http://yann.lecun.com/exdb/mnist/) (Modified National Insti
 
 
 <p align="center">
- <img  width="400" height="400" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e64d65a-4a87-4a81-a6b1-a320098dd734/NLP-image.jpg"><br>
+ <img  width="400" height="400" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7e64d65a-4a87-4a81-a6b1-a320098dd734%2FNLP-image.jpg?table=block&id=2c5246a3-a226-4ed6-8dd8-fdf91a61f0a9&width=9000&cache=v2"><br>
  </p>
 
 
