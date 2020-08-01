@@ -1,9 +1,9 @@
-# A simple Track for delving into AI -ML
+# A simple Track for diving into AI-ML
 contains the content related to ML and AI
 
 ## Prerequisite
 
-No requisite, but you need to learn things constantly if you are starting with python or if this is your starting into programming languages.
+No prequisite, but you need to learn things constantly if you are starting with python or if this is your starting into programming languages.
 
 
 ### Softwares requirement
@@ -25,8 +25,8 @@ python IDLE (3.7 or above) with jupyter notebook or Anaconda (For nwebies)
      - [Awesome lecture series by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
  
 ### Libraries
-Python library is a collection of functions and methods that allows you to perform many actions without writing your code. Each library in Python contains a huge number of useful modules that you can import for your every day programming.
-   * Below are some libraries used in loading and processing data
+Python library is a collection of functions and methods that allows you to perform many actions without writing your code from scratch. Each library in Python contains a huge number of useful modules that you can import for your every day programming.
+   * Below are some libraries used in loading, processing and visualising data
      * **Numpy**
         - [Installation](https://numpy.org/install/)
         - [Tutorial](https://www.geeksforgeeks.org/python-numpy/)
@@ -38,7 +38,7 @@ Python library is a collection of functions and methods that allows you to perfo
        - **Insallation for seaborn**- Type (conda install seaborn) in command prompt 
        - [Data Visualisation using Matplotlib and seaborn](https://towardsdatascience.com/data-visualization-for-machine-learning-and-data-science-a45178970be7#:~:text=The%20heatmap%20from%20seaborn%20library,with%20an%20optional%20color%20bar.&text=In%20Machine%20learning%20applications%2C%20it,between%202%20different%20hyperparameters%20etc.)
 
-**There are many other libraries used in Machine learning, details regarding those will be given along with subsequent uses later.**
+**There are many other libraries used in Machine learning, details regarding those will be given along with subsequent materials later.**
  
 
 
