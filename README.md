@@ -1,15 +1,18 @@
 # A simple Track for delving into AI -ML
 contains the content related to ML and AI
 
-## Prerequisite 
+## Prerequisite
 
-### softwares requirement
+No requisite, but you need to learn things constantly if you are starting with python or if this is your starting into programming languages.
+
+
+### Softwares requirement
 <p align="center">
  <img  width="600" height="400" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6cd3635a-1b94-4856-9bd8-f74a481daf9c%2Fanaconda-logo2.png?table=block&id=d9df431a-6760-4ae7-bca6-863c746fa61b&width=3070&cache=v2"><br>
 </p>
 
 
-python IDLE (3.7 or above) with jupyter notebook or Anaconda
+python IDLE (3.7 or above) with jupyter notebook or Anaconda (For nwebies)
 
   * Anaconda Installation
      * if you not have any above softwares installed follow this [link](https://docs.anaconda.com/anaconda/install/windows/)
