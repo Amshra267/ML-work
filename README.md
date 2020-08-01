@@ -227,9 +227,12 @@ The [MNIST database](http://yann.lecun.com/exdb/mnist/) (Modified National Insti
 ### Finally Sequence Models and NLP(natural language processing)
 
 
-[https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e64d65a-4a87-4a81-a6b1-a320098dd734/NLP-image.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e64d65a-4a87-4a81-a6b1-a320098dd734/NLP-image.jpg)
+<p align="center">
+ <img  width="400" height="400" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e64d65a-4a87-4a81-a6b1-a320098dd734/NLP-image.jpg">
 
-we focus on Sequence modelling and its applications in the field of Natural Language Processing(NLP)
+
+
+**In this section, we focus on Sequence modelling and its applications in the field of Natural Language Processing(NLP)**
 
 #### Prerequisites
 
