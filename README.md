@@ -120,15 +120,15 @@ Python library is a collection of functions and methods that allows you to perfo
 ## Deep Learning(Rise of Neural Networks)
 
 <p align="center">
- <gif  width="500" height="500" src="https://github.com/Amanmishra267/ML-work/blob/master/AnimatedVacantAldabratortoise-max-1mb.gif
-"><br>
+ <img  width="500" height="500" src="https://github.com/Amanmishra267/ML-work/blob/master/AnimatedVacantAldabratortoise-max-1mb.gif
+">
 </p>
 
 ----
 
 <p align="center">
- <gif  width="500" height="500" src="https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2018/12/nural-network-banner.gif
- "><br>
+ <img  width="500" height="500" src="https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2018/12/nural-network-banner.gif
+ ">
 </p>
 
 
