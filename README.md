@@ -39,7 +39,7 @@ E-mail Newsletters
 [The Batch by deeplearning.ai](https://www.deeplearning.ai/thebatch/) 
 
 ### Materials
-**If you are a keen book for reader then here are few books which you can read for learning ML**
+**If you are a keen reader then here are some books which you can read for learning ML**
   * [Neural network and deep learning](http://neuralnetworksanddeeplearning.com/)
   * [deep Learning](http://www.deeplearningbook.org/)
 
