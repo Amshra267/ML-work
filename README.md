@@ -259,7 +259,7 @@ The [MNIST database](http://yann.lecun.com/exdb/mnist/) (Modified National Insti
 
 #### Prerequisites
 
-To properly understand the material for this week, the following material should be well understood or the material covered in the courses:-
+To properly understand the material of NLP, the following material should be well understood or the material covered in the courses:-
 
 → Convolutional Neural Networks by Andrew Ng on Coursera
 
