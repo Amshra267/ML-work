@@ -1,54 +1,24 @@
 # A simple Track for diving into AI-ML
 contains the content related to ML and AI
 
-## Prerequisite
-
-No prequisite, but you need to learn things constantly if you are starting with python or if this is your starting into programming languages.
-
-
-### Softwares requirement
-<p align="center">
- <img  width="600" height="400" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6cd3635a-1b94-4856-9bd8-f74a481daf9c%2Fanaconda-logo2.png?table=block&id=d9df431a-6760-4ae7-bca6-863c746fa61b&width=3070&cache=v2"><br>
-</p>
-
-
-python IDLE (3.7 or above) with jupyter notebook or Anaconda (For nwebies)
-
-  * Anaconda Installation
-     * if you not have any above softwares installed follow this [link](https://docs.anaconda.com/anaconda/install/windows/)
-     
-  * Introduction to Jupyter Notebooks
-     - [Jupyter tutorial blog](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
-     - [Video tutorial [30:20]](http://youtube.com/watch?v=HW29067qVWk)
-     
-  * Learning Python Basics   
-     - [Awesome lecture series by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
- 
-### Libraries
-Python library is a collection of functions and methods that allows you to perform many actions without writing your code from scratch. Each library in Python contains a huge number of useful modules that you can import for your every day programming.
-   * Below are some libraries used in loading, processing and visualising data
-     * **Numpy**
-        - [Installation](https://numpy.org/install/)
-        - [Tutorial](https://www.geeksforgeeks.org/python-numpy/)
-     * **Pandas**
-       - [Exhaustive tutorial to master pandas](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
-       - [Pandas functions cheat sheet](https://towardsdatascience.com/my-python-pandas-cheat-sheet-746b11e44368)
-     * **matplotlib and Seaborn**
-       - **Insallation for Matplotlib**- Type (conda install matplotlib) in command prompt
-       - **Insallation for seaborn**- Type (conda install seaborn) in command prompt 
-       - [Data Visualisation using Matplotlib and seaborn](https://towardsdatascience.com/data-visualization-for-machine-learning-and-data-science-a45178970be7#:~:text=The%20heatmap%20from%20seaborn%20library,with%20an%20optional%20color%20bar.&text=In%20Machine%20learning%20applications%2C%20it,between%202%20different%20hyperparameters%20etc.)
-
-**There are many other libraries used in Machine learning, details regarding those will be given along with subsequent materials later.**
- 
-
 
 ## Suggestions before starting
+
+ * The contents in this repo seems too much but don't look too far, complete step by step-
+     - I am trying to prepare a general track for you to avoid some stress
+        * Upto week 1st - Python(for beginners) and numpy, pandas, matplotlib and seaborn
+        * Upto week 2nd - Linear and Logistic Regression (With practice)
+        * Upto week 3rd - Deep learning(MLP and keras complete)
+        * Upto week 4th - Deep learning(CNN with practice)
+        * Upto week 5th - Deep learning(NLP)
+        
+     - If you are unable to complete the materials just gain basic intutitions within the given time and later complete at your own pace.
  * It is advisable to view videos at 1.25x or 1.5x as most of them are usually slow
  * If you find any difficulty during learning, just start an issue in the issue section of this github repository.
  * I tried my best and used my own experience in compiling materials,  you can use any other sources which makes you feel comfortable.
  * lastly i will suggest some blogging sites and search engines which helps you most of the time.
  
-### Blogs and extra resources(Any time you have any doubt just raise an issue or search in below sites)
+### Blogs and extra resources - Your companion for ML-AI(Any time you have any doubt just raise an issue or search in below sites)
 
 Blogs
 
@@ -74,15 +44,59 @@ E-mail Newsletters
   * [deep Learning](http://www.deeplearningbook.org/)
 
 
+
+## Prerequisite
+
+No prequisite, but you need to learn things constantly if you are starting with python or if this is your starting into programming languages.
+
+
+### Softwares requirement
+<p align="center">
+ <img  width="600" height="400" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6cd3635a-1b94-4856-9bd8-f74a481daf9c%2Fanaconda-logo2.png?table=block&id=d9df431a-6760-4ae7-bca6-863c746fa61b&width=3070&cache=v2"><br>
+</p>
+
+
+python IDLE (3.7 or above) with jupyter notebook or Anaconda
+
+  * Anaconda Installation
+     * if you not have any above softwares installed follow this [link](https://docs.anaconda.com/anaconda/install/windows/)
+     
+  * Introduction to Jupyter Notebooks
+     - [Jupyter tutorial blog](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+     - [Video tutorial [30:20]](http://youtube.com/watch?v=HW29067qVWk)
+     
+  * Learning Python Basics   
+     - [Awesome lecture series by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+ 
+### Libraries
+Python library is a collection of functions and methods that allows you to perform many actions without writing your code from scratch. Each library in Python contains a huge number of useful modules that you can import for your every day programming.
+   * Below are some libraries used in loading, processing and visualising data
+     * **Numpy**
+        - [Installation](https://numpy.org/install/)
+        - [Tutorial](https://www.geeksforgeeks.org/python-numpy/)
+     * **Pandas**
+       - [Exhaustive tutorial to master pandas](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
+       - [Pandas functions cheat sheet](https://towardsdatascience.com/my-python-pandas-cheat-sheet-746b11e44368)
+     * **matplotlib and Seaborn**
+       - **Insallation for Matplotlib**-  Use (conda install matplotlib or pip install matplotlib) in command prompt
+       - **Insallation for seaborn**- Type (conda install seaborn or pip install seaborn) in command prompt 
+       - [Data Visualisation using Matplotlib and seaborn](https://towardsdatascience.com/data-visualization-for-machine-learning-and-data-science-a45178970be7#:~:text=The%20heatmap%20from%20seaborn%20library,with%20an%20optional%20color%20bar.&text=In%20Machine%20learning%20applications%2C%20it,between%202%20different%20hyperparameters%20etc.)
+
+**There are many other libraries used in Machine learning, details regarding those will be given along with subsequent materials later.**
+ 
+
+
+
 ## what actually AI is ?
 
 <p align="center">
  <img  width="400" height="400" src="https://github.com/Amanmishra267/ML-work/blob/master/artificial-intelligence-humanoid-head-neural-260nw-1384554629.webp"><br>
 </p>
 
-**According to Wikipedia**- Artificial intelligence (AI) is wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. ... It is the endeavor to replicate or simulate human intelligence in machines. if you want to know more about what AI and Ml, follow this [link](https://towardsdatascience.com/what-do-you-know-about-artificial-intelligence-cd91cd3946dd)
+**According to Wikipedia**- Artificial intelligence (AI) is wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. ... It is the endeavor to replicate or simulate human intelligence in machines. if you want to know more about what AI, follow this [link](https://towardsdatascience.com/what-do-you-know-about-artificial-intelligence-cd91cd3946dd)
 
 
+------
 
 ## Machine learning
 
@@ -177,10 +191,13 @@ Due to the advancement in deep learnig, there are different types of programming
  * Torch
  * Theano
  * Pytorch and many more... 
+
  
 We use here keras due to easier code implementation and someone is intrested, they can use torch also
  
  [Video Series on working with Keras (Both installation and Code practice in keras)](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)(Intermediate level). You can leave the backend selected as Tensorflow. The videos on deployment and Tensorflow.js are not required to be seen. Don't worry about CNNs as it comes later.
+ 
+ [Keras Official Documentation](https://keras.io/) ✨
 
 **Use all the knowledge of neural nets and work on the same dataset given for logistic regression and compare the results of both**
 
@@ -221,6 +238,11 @@ The [MNIST database](http://yann.lecun.com/exdb/mnist/) (Modified National Insti
 
 - **[Introduction](https://arxiv.org/pdf/2001.05566.pdf)** (ref pg:1-3)
 - [Video lecture on Computer Vision tasks](https://www.youtube.com/watch?v=nDPWywWRIRo&t=520s)
+<p align="center">
+ <img  width="400" height="400" src="https://github.com/Amanmishra267/ML-work/blob/master/Screenshot%20(73).png"><br>
+ </p>
+
+
 
 -----------------------
 
@@ -262,6 +284,8 @@ The documentation for the NLTK can be accessed [here](https://www.nltk.org/) and
 Like any other machine learning task, NLP tasks such as POS tagging, NER classification etc. also gives state-of-the-result with deep learning techniques.
 
 The following course discusses most the techniques and types of deep learning architectures used in NLP.
+
+
 
 **[Sequence Models | Coursera](https://www.coursera.org/learn/nlp-sequence-models) by Andrew NG
 
