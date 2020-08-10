@@ -13,5 +13,5 @@
               * [Blog 2](https://data-flair.training/blogs/svm-kernel-functions/)
           * Visualisation and maths behind kernel function
               *  [Blog](https://medium.com/@ranasinghiitkgp/mathematics-behind-support-vector-machine-4e8130b83840)
-              *   Andrew Ng SVM lectures Week 7
+              *  [Andrew Ng Machine Learning Course](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=94-BrandedSearch-IN&campaignid=1776545273&adgroupid=69298819109&device=c&keyword=andrew%20ng%20machine%20learning&matchtype=e&network=g&devicemodel=&adpostion=&creativeid=346568280203&hide_mobile_promo&gclid=CjwKCAjw4MP5BRBtEiwASfwALzyGYi4D5J_62JGqbcjpXWsrHk5Ke-ZFoCO26Dp6vWwf5deUu1xbfxoCZh0QAvD_BwE)(Week 7 on SVM)
       
