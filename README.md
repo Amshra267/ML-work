@@ -7,5 +7,11 @@
       *  [Polynomial Regression](https://towardsdatascience.com/machine-learning-polynomial-regression-with-python-5328e4e8a386)
       *  [Ridge and lasso Regression](https://towardsdatascience.com/intro-to-linear-model-selection-and-regularization-d47bd2c5d54)
           * [Code implementation of above](https://towardsdatascience.com/how-to-perform-lasso-and-ridge-regression-in-python-3b3b75541ad8)
-
+      *  [Support Vectors Regression](https://medium.com/coinmonks/support-vector-regression-or-svr-8eb3acf6d0ff) 
+          * Different kernels in SVR
+              * [Blog 1](https://towardsdatascience.com/kernel-function-6f1d2be6091)
+              * [Blog 2](https://data-flair.training/blogs/svm-kernel-functions/)
+          * Visualisation and maths behind kernel function
+              *  [Blog](https://medium.com/@ranasinghiitkgp/mathematics-behind-support-vector-machine-4e8130b83840)
+              *   Andrew Ng SVM lectures Week 7
       
