@@ -8,6 +8,7 @@
       *  [Ridge and lasso Regression](https://towardsdatascience.com/intro-to-linear-model-selection-and-regularization-d47bd2c5d54)
           * [Code implementation of above](https://towardsdatascience.com/how-to-perform-lasso-and-ridge-regression-in-python-3b3b75541ad8)
       *  [Support Vectors Regression](https://medium.com/coinmonks/support-vector-regression-or-svr-8eb3acf6d0ff) 
+      *  [Another article for svr](https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589)
           * Different kernels in SVR
               * [Blog 1](https://towardsdatascience.com/kernel-function-6f1d2be6091)
               * [Blog 2](https://data-flair.training/blogs/svm-kernel-functions/)
