@@ -4,6 +4,9 @@
 ### Preprocessing
 [blog1 about scaling and poly features](https://medium.com/@samchaaa/preprocessing-why-you-should-generate-polynomial-features-first-before-standardizing-892b4326a91d)
 
+### Importance of Normal distribution
+[What is normal distribution and why it is important](https://medium.com/analytics-vidhya/the-normal-distribution-for-data-scientists-6de041a01cb9#:~:text=The%20normal%20distribution%20is%20a,in%20the%20data%20science%20curriculum.)
+
 
 ### Advance Interpration of linear models
 
