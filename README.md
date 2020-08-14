@@ -4,6 +4,7 @@
 ### Preprocessing
 * [blog1 about scaling and poly features](https://medium.com/@samchaaa/preprocessing-why-you-should-generate-polynomial-features-first-before-standardizing-892b4326a91d)
 * [Q-Q plot](https://medium.com/@premal.matalia/q-q-plot-in-linear-regression-explained-ab040567d86f#:~:text=Quantile%2DQuantile%20(Q%2DQ)%20plot,Normal%2C%20exponential%20or%20Uniform%20distribution.)
+* [Box Cox transformation](https://www.geeksforgeeks.org/box-cox-transformation-using-python/#:~:text=provide%20this%20function.-,Implementation,normal%20distribution%20to%20normal%20distribution.)
 
 ### Importance of Normal distribution
 * [What is normal distribution and why it is important](https://medium.com/analytics-vidhya/the-normal-distribution-for-data-scientists-6de041a01cb9#:~:text=The%20normal%20distribution%20is%20a,in%20the%20data%20science%20curriculum.)
