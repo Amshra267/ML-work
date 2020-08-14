@@ -1,5 +1,9 @@
 ## Advance concepts of ML
 
+
+### Preprocessing
+[blog1 about scaling and poly features](https://medium.com/@samchaaa/preprocessing-why-you-should-generate-polynomial-features-first-before-standardizing-892b4326a91d)
+
 [Different types of linear Models](https://www.listendata.com/2018/03/regression-analysis.html)(Beyond linear logistic)
    * Seprate Articles for above model in slight advanced way
       *  [Linear Regression](https://towardsdatascience.com/linear-regression-understanding-the-theory-7e53ac2831b5)
