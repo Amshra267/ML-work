@@ -10,6 +10,9 @@
 * [What is data Augmentation?](https://towardsdatascience.com/image-augmentation-for-deep-learning-using-keras-and-histogram-equalization-9329f6ae5085)
 * [Cutmix data Augmentation](https://towardsdatascience.com/cutmix-a-new-strategy-for-data-augmentation-bbc1c3d29aab#9087)
 
+### Regular Expressions or REGEX
+[Basic intro of regex](https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/)
+
 ### Importance of Normal distribution
 * [What is normal distribution and why it is important](https://medium.com/analytics-vidhya/the-normal-distribution-for-data-scientists-6de041a01cb9#:~:text=The%20normal%20distribution%20is%20a,in%20the%20data%20science%20curriculum.)
 * [Blog 2](https://towardsdatascience.com/the-powers-of-normal-distribution-4cbb06e4a955)
