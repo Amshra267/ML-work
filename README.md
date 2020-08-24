@@ -11,7 +11,8 @@
 * [Cutmix data Augmentation](https://towardsdatascience.com/cutmix-a-new-strategy-for-data-augmentation-bbc1c3d29aab#9087)
 
 ### Regular Expressions or REGEX
-[Basic intro of regex](https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/)
+* [Basic intro of regex](https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/)
+* [regex blog - official documentation](https://docs.python.org/3/library/re.html)
 
 ### Importance of Normal distribution
 * [What is normal distribution and why it is important](https://medium.com/analytics-vidhya/the-normal-distribution-for-data-scientists-6de041a01cb9#:~:text=The%20normal%20distribution%20is%20a,in%20the%20data%20science%20curriculum.)
