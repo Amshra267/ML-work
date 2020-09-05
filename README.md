@@ -10,6 +10,10 @@
 * [What is data Augmentation?](https://towardsdatascience.com/image-augmentation-for-deep-learning-using-keras-and-histogram-equalization-9329f6ae5085)
 * [Cutmix data Augmentation](https://towardsdatascience.com/cutmix-a-new-strategy-for-data-augmentation-bbc1c3d29aab#9087)
 
+## More on NLP
+* [Evolution of NLP](https://medium.com/datadriveninvestor/the-brief-history-of-nlp-c90f331b6ad)
+* [Progress of NLP in deep learning](https://towardsdatascience.com/the-unreasonable-progress-of-deep-neural-networks-in-natural-language-processing-nlp-374443b21b00)
+
 ### Regular Expressions or REGEX (For Text)
 * [Basic intro of regex](https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/)
 * [regex blog - official documentation](https://docs.python.org/3/library/re.html)
