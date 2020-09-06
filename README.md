@@ -23,6 +23,9 @@
 * [Blog 2](https://towardsdatascience.com/the-powers-of-normal-distribution-4cbb06e4a955)
 * [Why Data scienctists love Gaussian](https://towardsdatascience.com/why-data-scientists-love-gaussian-6e7a7b726859)
 
+### Advance Activation Function
+* [Gelu Activation function](https://medium.com/@shoray.goel/gelu-gaussian-error-linear-unit-4ec59fb2e47c)
+
 ### Advance Interpration of linear models
 
 [Different types of linear Models](https://www.listendata.com/2018/03/regression-analysis.html)(Beyond linear logistic)
